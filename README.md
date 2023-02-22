@@ -1,2 +1,2 @@
 
-Project URL : pnv-food-recipe.netlify.app
+Project URL : https://pnv-food-recipe.netlify.app/
